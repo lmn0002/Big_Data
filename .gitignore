@@ -1,1 +1,3 @@
+.venv/
+*.parquet
 ny_taxi_DB/
